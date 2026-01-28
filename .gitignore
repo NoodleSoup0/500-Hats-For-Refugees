@@ -111,4 +111,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/react,firebase,visualstudiocode,macos,windows
-package-lock.json
+package-lock.jsonsrc/utilties/firebaseConfig.js

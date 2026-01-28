@@ -6,21 +6,11 @@ import { getAuth, GoogleAuthProvider, onAuthStateChanged, signInWithPopup, signO
 import { signInWithEmailAndPassword, createUserWithEmailAndPassword } from 'firebase/auth';
 import { useCallback, useState, useEffect } from "react";
 import { getStorage, ref as storageRef, uploadBytes, getDownloadURL } from 'firebase/storage';
+import {firebaseConfig} from firebaseConfig
 
 
 
-// Your web app's Firebase configuration
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
-const firebaseConfig = {
-    apiKey: "AIzaSyCDFN8LNDMB7JPxDaWrV5Ab6VOMMad0ZeU",
-    authDomain: "h-525b1.firebaseapp.com",
-    databaseURL: "https://h-525b1-default-rtdb.firebaseio.com",
-    projectId: "h-525b1",
-    storageBucket: "h-525b1.firebasestorage.app",
-    messagingSenderId: "991953611317",
-    appId: "1:991953611317:web:a86ea7b4a859340a9e9f7c",
-    measurementId: "G-4FYT59QD5R"
-};
+
 // Initialize Firebase
 const firebase = initializeApp(firebaseConfig);
 
