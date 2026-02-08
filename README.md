@@ -49,7 +49,7 @@ This project involved partnering with a real-world client to design and implemen
 - **Front-end:** React, HTML5, CSS3  
 - **Back-end:** Node.js, Express.js  
 - **Database & Hosting:** Firebase (Firestore, Authentication, Hosting)  
-- **Development Tools:** Git, GitHub, Agile workflow (Scrum, sprints, stand-ups)  
+- **Development Tools:** Git, GitHub, Agile workflow (sprints, code reviews, and team reflections)  
 
 ---
 
@@ -57,12 +57,12 @@ This project involved partnering with a real-world client to design and implemen
 
 We conducted user testing with admins, volunteers, and partner organizations to understand user journey and evaluate usability:  
 
-**Admin Workflow:**  
+**Admin Features Based On Needs:**  
 - Manage donation event requests, moderate images, track donations  
 - Manage volunteers and events, including indicating needed volunteer counts  
 - Feedback suggested clarifying withdrawal actions, adding comment fields, and showing donation acknowledgements  
 
-**Volunteer Experience:**  
+**Volunteer Features Based On Needs:**  
 - Volunteers can browse and sign up for events  
 - Map-based filtering and event details were highlighted as important for clarity  
 
@@ -104,4 +104,5 @@ We conducted user testing with admins, volunteers, and partner organizations to 
 We would like to extend a heartfelt thank you to **Margie Chan** for working with us and supporting the 500HatsForRefugees project.  
 
 Read more about her work here: [500 Hats for Refugees – Northwestern Magazine](https://magazine.northwestern.edu/news/500-hats-for-refugees-margie-chan-migrants-chicago-haugan-edgewater-uptown-library)
+
 
