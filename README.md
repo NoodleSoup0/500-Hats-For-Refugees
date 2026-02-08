@@ -55,7 +55,7 @@ This project involved partnering with a real-world client to design and implemen
 
 ## User Testing Insights
 
-We conducted user testing with admins, volunteers, and partner organizations to evaluate usability:  
+We conducted user testing with admins, volunteers, and partner organizations to understand user journey and evaluate usability:  
 
 **Admin Workflow:**  
 - Manage donation event requests, moderate images, track donations  
@@ -104,3 +104,4 @@ We conducted user testing with admins, volunteers, and partner organizations to 
 We would like to extend a heartfelt thank you to **Margie Chan** for working with us and supporting the 500HatsForRefugees project.  
 
 Read more about her work here: [500 Hats for Refugees – Northwestern Magazine](https://magazine.northwestern.edu/news/500-hats-for-refugees-margie-chan-migrants-chicago-haugan-edgewater-uptown-library)
+
